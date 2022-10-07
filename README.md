@@ -16,7 +16,7 @@ This Udagram application was provided by Udacity.
 
 ### CircleCI
 
-- [![CircleCI]()
+- [![CircleCI](https://dl.circleci.com/status-badge/img/gh/Hozifaelgharbawy/udagram/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Hozifaelgharbawy/udagram/tree/master)
 
 ## Requirements
 
