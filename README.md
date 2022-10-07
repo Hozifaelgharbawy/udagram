@@ -16,7 +16,7 @@ This Udagram application was provided by Udacity.
 
 ### CircleCI
 
-- [![CircleCI](https://circleci.com/gh/kirollosatef/deploy-fullstack-aws-circleci/tree/master.svg?style=svg)](https://circleci.com/gh/kirollosatef/deploy-fullstack-aws-circleci/tree/master)
+
 
 ## Requirements
 
