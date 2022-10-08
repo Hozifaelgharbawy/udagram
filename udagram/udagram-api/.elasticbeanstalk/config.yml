@@ -15,4 +15,4 @@ global:
   profile: null
   repository: null
   sc: null
-  workspace_type: Application
+  workspace_type: Sample Application
